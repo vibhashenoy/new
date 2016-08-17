@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+new readmetext fjdfrey
+=======
 updated test file
+>>>>>>> 83818a48beef7627cff3e26379f072d958109e9a
 =======
 <<<<<<< HEAD
 new readmetext
