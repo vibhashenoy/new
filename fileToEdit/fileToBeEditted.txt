@@ -12,4 +12,12 @@ edited1
 edited
 >>>>>>> refs/remotes/origin/master
 
+<<<<<<< HEAD
 <<sandeepsp>>
+=======
+<<<<<<< HEAD
+seema rao kordcal
+=======
+<<sandeep>>
+>>>>>>> refs/remotes/origin/master
+>>>>>>> refs/remotes/origin/master
