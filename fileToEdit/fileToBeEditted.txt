@@ -12,4 +12,8 @@ edited1
 edited
 >>>>>>> refs/remotes/origin/master
 
+<<<<<<< HEAD
 seema rao k
+=======
+<<sandeep>>
+>>>>>>> refs/remotes/origin/master
