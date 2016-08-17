@@ -13,7 +13,7 @@ edited
 >>>>>>> refs/remotes/origin/master
 
 <<<<<<< HEAD
-seema rao k
+seema rao kordcal
 =======
 <<sandeep>>
 >>>>>>> refs/remotes/origin/master
